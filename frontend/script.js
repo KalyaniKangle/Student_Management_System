@@ -5,7 +5,7 @@
 
 // Empty string means use the same server that served this page.
 // Browser → FastAPI → Supabase
-const API_URL = "";
+const API_URL = "https://student-management-system-2i9y.onrender.com";
 
 
 // =====================================================
